@@ -1,0 +1,16 @@
+body {
+    background-color: darkgray;
+    color: aqua;
+}
+#camera {
+border: 2px dashed rgb(200, 255, 0);
+width: 350px;
+height: 300px;
+}
+.heading {
+    font-size: 20px;
+    width: 80%;
+}
+.name_of_objects,#result_object_name,#acurracy {
+color: darkcyan;
+}
